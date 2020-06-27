@@ -6294,6 +6294,7 @@ button.bg-dark:focus {
 
 .d-block {
   display: block !important;
+  color:white;
 }
 
 .d-table {
@@ -9748,7 +9749,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #43c3f4!important;
+  color: #004684!important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
