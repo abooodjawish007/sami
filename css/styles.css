@@ -395,6 +395,14 @@ h6, .h6 {
   font-size: 1.25rem;
   font-weight: 300;
 }
+.logos {
+ 
+  
+  width: 200px;
+  height: 200px;
+ 
+ 
+}
 
 .display-1 {
   font-size: 6rem;
@@ -568,7 +576,15 @@ pre code {
     max-width: 1140px;
   }
 }
-
+.filter-primary{
+  filter: invert(59%) sepia(44%) saturate(448%) hue-rotate(172deg) brightness(86%) contrast(83%);
+}
+.img-a{
+  height: 4rem;;
+}
+.img-b{
+  height: 5rem;
+}
 .container-fluid, .container-xl, .container-lg, .container-md, .container-sm {
   width: 100%;
   padding-right: 15px;
@@ -2120,10 +2136,29 @@ select.form-control[size], select.form-control[multiple] {
 textarea.form-control {
   height: auto;
 }
-
-.form-group {
-  margin-bottom: 1rem;
+#form .form-groupa{
+  margin-bottom: 20px;
+  color: #004684!important;
 }
+#form label{
+  display: block;
+  margin-bottom: 5px;
+}
+#form input ,#form textarea{
+  width: 100%;
+  padding: 10px;
+  border: 1px #ddd solid;
+}
+#form textarea{
+  height: 200px;
+}
+#form input:focus , #form textarea:focus{
+  outline: none;
+  border-color:#004684!important;
+} 
+ 
+  
+
 
 .form-text {
   display: block;
@@ -2462,7 +2497,7 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #004684;
+  background-color: #072f52;
   border-color: #052c4e;
 }
 .btn-primary:focus, .btn-primary.focus {
