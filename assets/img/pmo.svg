@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:none;}
+	.st1{enable-background:new    ;}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{fill:url(#SVGID_2_);}
+	.st4{fill:url(#SVGID_3_);}
+	.st5{fill:#6690C0;}
+	.st6{font-family:'FranklinGothic-Heavy';}
+	.st7{font-size:243.6285px;}
+	.st8{letter-spacing:-17;}
+	.st9{fill:none;}
+</style>
+<line class="st0" x1="342.6" y1="452" x2="315" y2="423"/>
+<g class="st1">
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="10" y1="268.5" x2="621.1543" y2="268.5" gradientTransform="matrix(1 0 0 -1 0 512)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.8889" style="stop-color:#8E8E8E"/>
+			<stop  offset="0.9975" style="stop-color:#318AD3"/>
+		</linearGradient>
+		<path class="st2" d="M74.7,265.7v59H24.2V162.3h69.4c17.3,0,30.4,2,39.4,5.9c9,4,16.1,10,21.4,18.2c5.3,8.2,7.9,17.3,7.9,27.5
+			c0,15.5-5.4,28-16.2,37.5s-25.2,14.3-43.2,14.3L74.7,265.7L74.7,265.7z M74,230.9h16.7c14.7,0,22-5.4,22-16.2
+			c0-10.2-6.8-15.2-20.3-15.2H74V230.9z"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="10" y1="268.5" x2="621.1543" y2="268.5" gradientTransform="matrix(1 0 0 -1 0 512)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.8889" style="stop-color:#8E8E8E"/>
+			<stop  offset="0.9975" style="stop-color:#318AD3"/>
+		</linearGradient>
+		<path class="st3" d="M338.6,162.3v162.4h-46.3V208.6l-30,116.1h-31.6l-31.2-116.1v116.1h-37.4V162.3h65.1l23.6,86.2l22.5-86.2
+			H338.6z"/>
+		
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="10" y1="268.45" x2="621.1543" y2="268.45" gradientTransform="matrix(1 0 0 -1 0 512)">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.8889" style="stop-color:#8E8E8E"/>
+			<stop  offset="0.9975" style="stop-color:#318AD3"/>
+		</linearGradient>
+		<path class="st4" d="M418.3,327.2c-22.8,0-41.5-7.6-55.9-22.7s-21.6-35.4-21.6-60.8c0-24.3,6.9-44.3,20.6-60.1
+			c13.8-15.8,32.9-23.7,57.3-23.7c22.6,0,41,7.5,55.3,22.4c14.2,14.9,21.4,34.8,21.4,59.7c0,25.8-7.2,46.4-21.5,62
+			C459.5,319.5,441,327.2,418.3,327.2z M418.1,290.3c8.4,0,14.5-3.7,18.1-11c3.7-7.3,5.5-20.8,5.5-40.3c0-28.2-7.6-42.3-22.7-42.3
+			c-16.3,0-24.5,16.1-24.5,48.3C394.5,275.2,402.4,290.3,418.1,290.3z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 10 324.7241)" class="st5 st6 st7 st8">PMO</text>
+</g>
+<rect x="451.8" y="430.8" class="st9" width="7" height="7"/>
+<rect x="410.8" y="423.8" class="st9" width="76" height="13"/>
+</svg>
